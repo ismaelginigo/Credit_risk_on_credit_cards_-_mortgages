@@ -7,6 +7,6 @@ El proyecto consiste en el estudio dos datasets; uno de tarjetas de crédito en 
 
 Final Proyect of my Bootcamp at NEOLAND in Madrid.
 
-Use of Machine Learning classification models to prevent morosity on credit cards & mortages portofolios.
+Use of Machine Learning classification models to prevent morosity on credit cards & mortages portfolios.
 
 This proyect consists on the study of two datasets; one of credit cards in Brazil and the other about mortages in USA, with a high class imbalance. Both notebooks reflect the best ML algorithm, and the best techniques to solve that problematic situation.
